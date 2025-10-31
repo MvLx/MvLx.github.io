@@ -4,7 +4,7 @@ date: 2025-10-31
 categories: [Artikel, Software Testing and Quality Assurance]
 tags: [Artikel]
 image:
-  path: assets/lib/anu.jpg
+  path: pic/anu.jpg
   alt: plan Testing Thumbnail
 ---
 # Plan Testing
